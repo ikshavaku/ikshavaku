@@ -1,5 +1,5 @@
 # ADITYA ANAND
-#### 9738882432/aditya101295@gmail.com/aditya-anand(linkedin)
+#### 9738882432/aditya101295@gmail.com/[aditya-anand](https://www.linkedin.com/in/aditya-anand-101295/)
 ## SKILLS
 #### BACKEND DEVELOPMENT | *Golang, Python, Java*
 #### DATABASE | *Postgres, Oracle 11g, SqLite, DynamoDB*
